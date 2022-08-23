@@ -12,3 +12,5 @@ Use below command for training and testing on streaming graph in continual setup
 
 
 The above commands are CiteSeer, similar can be for other datasets such as Cora
+
+also for lower missing rates, use --categorical=1 flag
